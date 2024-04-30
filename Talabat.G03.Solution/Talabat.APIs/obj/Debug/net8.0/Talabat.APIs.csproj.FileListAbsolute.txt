@@ -1,0 +1,308 @@
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\appsettings.Development.json
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\appsettings.json
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.APIs.staticwebassets.runtime.json
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.APIs.exe
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.APIs.deps.json
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.APIs.runtimeconfig.json
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.APIs.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.APIs.pdb
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\AutoMapper.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Azure.Core.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Azure.Identity.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Humanizer.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Stripe.net.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.CodeDom.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.Core.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.Repository.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.Service.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.Repository.pdb
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.Service.pdb
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.Core.pdb
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\Talabat.APIs.csproj.AssemblyReference.cache
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\Talabat.APIs.AssemblyInfoInputs.cache
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\Talabat.APIs.AssemblyInfo.cs
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\staticwebassets.build.json
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\staticwebassets.development.json
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\staticwebassets\msbuild.Talabat.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\staticwebassets\msbuild.build.Talabat.APIs.props
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.APIs.props
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Talabat.APIs.props
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\scopedcss\bundle\Talabat.APIs.styles.css
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\Talabat.APIs.csproj.CopyComplete
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\Talabat.APIs.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\refint\Talabat.APIs.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\Talabat.APIs.pdb
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\Talabat.APIs.genruntimeconfig.cache
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\ref\Talabat.APIs.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\appsettings.json
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.APIs.staticwebassets.runtime.json
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.APIs.exe
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.APIs.deps.json
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.APIs.runtimeconfig.json
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.APIs.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.APIs.pdb
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Stripe.net.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.Core.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.Repository.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.Service.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.Repository.pdb
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.Service.pdb
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net8.0\Talabat.Core.pdb
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\Talabat.APIs.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\Talabat.APIs.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\Talabat.APIs.AssemblyInfo.cs
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\staticwebassets\msbuild.Talabat.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\staticwebassets\msbuild.build.Talabat.APIs.props
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.APIs.props
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Talabat.APIs.props
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\scopedcss\bundle\Talabat.APIs.styles.css
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\Talabat.APIs.csproj.CopyComplete
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\Talabat.APIs.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\refint\Talabat.APIs.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\Talabat.APIs.pdb
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\Talabat.APIs.genruntimeconfig.cache
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net8.0\ref\Talabat.APIs.dll

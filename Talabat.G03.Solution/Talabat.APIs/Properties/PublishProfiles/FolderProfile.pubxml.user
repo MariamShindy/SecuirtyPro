@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Deployed APIs .NET8.0</_PublishTargetUrl>
+    <History>True|2023-11-25T22:35:35.8648822Z;False|2023-11-26T00:35:05.8838980+02:00;False|2023-11-26T00:34:30.9524225+02:00;True|2023-11-26T00:32:04.9408227+02:00;False|2023-11-26T00:31:23.0793082+02:00;True|2023-11-26T00:25:36.4961536+02:00;True|2023-11-26T00:07:50.0510898+02:00;True|2023-11-25T23:36:50.1862935+02:00;True|2023-11-25T23:32:41.8853197+02:00;True|2023-11-25T23:12:32.9664863+02:00;True|2023-11-25T22:58:20.6132067+02:00;True|2023-11-25T22:55:22.0692385+02:00;True|2023-11-25T22:44:17.2583351+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

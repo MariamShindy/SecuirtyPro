@@ -1,0 +1,312 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.APIs\\Talabat.APIs.csproj": {}
+  },
+  "projects": {
+    "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.APIs\\Talabat.APIs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.APIs\\Talabat.APIs.csproj",
+        "projectName": "Talabat.APIs",
+        "projectPath": "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.APIs\\Talabat.APIs.csproj",
+        "packagesPath": "C:\\Users\\amedn\\.nuget\\packages\\",
+        "outputPath": "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.APIs\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amedn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.Repository\\Talabat.Repository.csproj": {
+                "projectPath": "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.Repository\\Talabat.Repository.csproj"
+              },
+              "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.Service\\Talabat.Service.csproj": {
+                "projectPath": "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.Service\\Talabat.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.Core\\Talabat.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.Core\\Talabat.Core.csproj",
+        "projectName": "Talabat.Core",
+        "projectPath": "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.Core\\Talabat.Core.csproj",
+        "packagesPath": "C:\\Users\\amedn\\.nuget\\packages\\",
+        "outputPath": "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amedn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.7.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.Repository\\Talabat.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.Repository\\Talabat.Repository.csproj",
+        "projectName": "Talabat.Repository",
+        "projectPath": "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.Repository\\Talabat.Repository.csproj",
+        "packagesPath": "C:\\Users\\amedn\\.nuget\\packages\\",
+        "outputPath": "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amedn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.Core\\Talabat.Core.csproj": {
+                "projectPath": "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.Core\\Talabat.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.Service\\Talabat.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.Service\\Talabat.Service.csproj",
+        "projectName": "Talabat.Service",
+        "projectPath": "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.Service\\Talabat.Service.csproj",
+        "packagesPath": "C:\\Users\\amedn\\.nuget\\packages\\",
+        "outputPath": "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amedn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.Core\\Talabat.Core.csproj": {
+                "projectPath": "D:\\Route\\Cycle 40\\08 ASP.NET Core Web APIs\\Session 08\\Demos\\Talabat.G03.Solution\\Talabat.Core\\Talabat.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[43.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

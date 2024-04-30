@@ -1,0 +1,30 @@
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.Repository\bin\Debug\net8.0\Talabat.Repository.deps.json
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.Repository\bin\Debug\net8.0\Talabat.Repository.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.Repository\bin\Debug\net8.0\Talabat.Repository.pdb
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.Repository\bin\Debug\net8.0\Talabat.Core.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.Repository\bin\Debug\net8.0\Talabat.Core.pdb
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net8.0\Talabat.Repository.csproj.AssemblyReference.cache
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net8.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net8.0\Talabat.Repository.AssemblyInfoInputs.cache
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net8.0\Talabat.Repository.AssemblyInfo.cs
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net8.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net8.0\Talabat.Repository.csproj.CopyComplete
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net8.0\Talabat.Repository.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net8.0\refint\Talabat.Repository.dll
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net8.0\Talabat.Repository.pdb
+D:\Route\Cycle 40\08 ASP.NET Core Web APIs\Session 08\Demos\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net8.0\ref\Talabat.Repository.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.Repository\bin\Debug\net8.0\Talabat.Repository.deps.json
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.Repository\bin\Debug\net8.0\Talabat.Repository.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.Repository\bin\Debug\net8.0\Talabat.Repository.pdb
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.Repository\bin\Debug\net8.0\Talabat.Core.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.Repository\bin\Debug\net8.0\Talabat.Core.pdb
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net8.0\Talabat.Repository.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net8.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net8.0\Talabat.Repository.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net8.0\Talabat.Repository.AssemblyInfo.cs
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net8.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net8.0\Talabat.Repository.csproj.CopyComplete
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net8.0\Talabat.Repository.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net8.0\refint\Talabat.Repository.dll
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net8.0\Talabat.Repository.pdb
+C:\Users\Dell\Downloads\Talabat.G03.Solution\Talabat.Repository\obj\Debug\net8.0\ref\Talabat.Repository.dll

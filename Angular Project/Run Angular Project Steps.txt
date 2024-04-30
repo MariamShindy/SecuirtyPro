@@ -1,0 +1,14 @@
+1. Uninstall Angular CLI
+	--> uninstall -g @angular/cli
+	--> npm cache clean --force
+2. Uninstall NodeJs from Control Panel
+3. Install NodeJs 16.0
+4. Install Angular CLI 11.2.14
+	--> npm i -g  @angular/cli@11.2.14
+5. Download Angular Project from Drive [NodeModules(11.2.14)]
+6. Run Angular Project
+	--> ng serve -o
+
+
+** Run With This Command [if You Use Latest NodeJs and AngularCLI Version && Your Project isn't with a supported angular version with Installed NodeJs and AngularCli on your Machine]
+	--> SET NODE_OPTIONS=--openssl-legacy-provider && ng serve -o
